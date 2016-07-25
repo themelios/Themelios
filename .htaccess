@@ -1,0 +1,6 @@
+RewriteEngine on
+
+RewriteRule ^js/?$ - [F,L]
+RewriteRule ^images/?$ - [F,L]
+RewriteRule ^fonts/?$ - [F,L]
+RewriteRule ^css/?$ - [F,L]
